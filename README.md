@@ -18,6 +18,7 @@ Organization profile and global community health files for Luxion Labs open-sour
 - Organization-wide open source contribution standards and code of conduct.
 - Automated community health monitoring and repository audit protocols.
 - Central directory of Luxion Labs research and production tools.
+- Contributors list on the organization profile, generated from the GitHub API.
 
 ## Architecture and Stack
 Markdown, GitHub Actions, and Community Health standards.
