@@ -65,7 +65,7 @@ Luxion Labs enforces a strict 24-hour response SLA on all community issues, feat
 <table>
 <tr>
 <td align="center" width="14%"><a href="https://github.com/akshad-exe"><img src="https://github.com/akshad-exe.png?size=64" width="64" alt="akshad-exe"><br><sub><b>akshad-exe</b></sub></a><br><sub>1037 commits</sub></td>
-<td align="center" width="14%"><a href="https://github.com/dev-Ninjaa"><img src="https://github.com/dev-Ninjaa.png?size=64" width="64" alt="dev-Ninjaa"><br><sub><b>dev-Ninjaa</b></sub></a><br><sub>797 commits</sub></td>
+<td align="center" width="14%"><a href="https://github.com/dev-Ninjaa"><img src="https://github.com/dev-Ninjaa.png?size=64" width="64" alt="dev-Ninjaa"><br><sub><b>dev-Ninjaa</b></sub></a><br><sub>807 commits</sub></td>
 <td align="center" width="14%"><a href="https://github.com/atharhive"><img src="https://github.com/atharhive.png?size=64" width="64" alt="atharhive"><br><sub><b>atharhive</b></sub></a><br><sub>147 commits</sub></td>
 <td align="center" width="14%"><a href="https://github.com/sushantshah-dev"><img src="https://github.com/sushantshah-dev.png?size=64" width="64" alt="sushantshah-dev"><br><sub><b>sushantshah-dev</b></sub></a><br><sub>67 commits</sub></td>
 <td align="center" width="14%"><a href="https://github.com/Neilblaze"><img src="https://github.com/Neilblaze.png?size=64" width="64" alt="Neilblaze"><br><sub><b>Neilblaze</b></sub></a><br><sub>16 commits</sub></td>
