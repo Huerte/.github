@@ -56,8 +56,6 @@ Luxion Labs is an engineering studio dedicated to building high-velocity, produc
 ## Maintainer Response SLA
 Luxion Labs enforces a strict 24-hour response SLA on all community issues, feature proposals, and pull requests. See [CONTRIBUTING.md](CONTRIBUTING.md) for full development guidelines.
 
-</div>
-
 ## Contributors
 
 <!-- CONTRIBUTORS:START -->
@@ -81,3 +79,6 @@ Luxion Labs enforces a strict 24-hour response SLA on all community issues, feat
 <!-- CONTRIBUTORS:END -->
 
 Want to be listed? See the [contributing guide](https://github.com/Luxion-Labs/.github/blob/main/CONTRIBUTING.md).
+
+## License
+Distributed under the MIT License. See [LICENSE](LICENSE) for details.
